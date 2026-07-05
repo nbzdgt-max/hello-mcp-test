@@ -1,0 +1,5 @@
+Hello, GitHub MCP!
+
+This repository was created by GitHub MCP.
+
+测试时间: 2026-07-05 13:20:24
